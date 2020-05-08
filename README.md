@@ -1,1 +1,3 @@
-# k8s-test
+# maven-project
+
+Simple Maven Project
